@@ -195,5 +195,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋 Support
 
 If you find this useful or encounter problems, feel free to open an issue or fork and contribute!
-
-```
