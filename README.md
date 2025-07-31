@@ -85,8 +85,8 @@ sudo raspi-config
 
 | Pi GPIO                 | RS485 Module         | Sensor         |
 | ----------------------- | -------------------- | -------------- |
-| GPIO 14 (TXD0) – Pin 8  | DI (Driver Input)    | A              |
-| GPIO 15 (RXD0) – Pin 10 | RO (Receiver Output) | B              |
+| GPIO 14 (TXD0) – Pin 8  | RX                   | A              |
+| GPIO 15 (RXD0) – Pin 10 | TX                   | B              |
 | GND (e.g., Pin 6)       | GND                  | GND            |
 | 3.3V / 5V               | VCC                  | (RS485 module) |
 | External 12–24V         | —                    | Sensor Power   |
