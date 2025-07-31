@@ -197,14 +197,3 @@ This project is licensed under the [MIT License](LICENSE).
 If you find this useful or encounter problems, feel free to open an issue or fork and contribute!
 
 ```
-
----
-
-Let me know if you’d like me to:
-
-- Add a `LICENSE` file (MIT)
-- Generate a `.gitignore` file (with `.venv/`, `__pycache__/`, etc.)
-- Help turn this into a Python package or web API
-
-Would you like me to generate the full GitHub repo structure (with all files)?
-```
