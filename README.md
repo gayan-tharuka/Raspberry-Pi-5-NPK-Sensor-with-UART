@@ -1,8 +1,5 @@
-Here is the complete `README.md` file for your GitHub repository, based on your provided code, hardware setup, and detailed instructions:
-
 ---
 
-````markdown
 # Raspberry Pi 5 – NPK Sensor (RS485 UART) Reader
 
 This project provides a Python script to read values from a **7-in-1 NPK Soil Sensor** over **RS485 UART** using a **Raspberry Pi 5**. It supports reading **Moisture**, **Temperature**, **Conductivity**, **pH**, **Nitrogen**, **Phosphorus**, and **Potassium**.
